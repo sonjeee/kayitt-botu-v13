@@ -1,0 +1,16 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "anonim",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.8.0",
+    "fs": "^0.0.1-security",
+    "quick.db": "^7.1.3"
+  }
+}
